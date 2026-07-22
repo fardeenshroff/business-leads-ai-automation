@@ -1,13 +1,6 @@
 <div align="center">
   <h1> 🚀 Sponsored by CoreClaw</h1>
 </div>
-<a href="https://www.coreclaw.com/?utm_source=github&utm_medium=referral&utm_campaign=asiifdev&utm_term=&utm_id=asiifdev">
-  <img
-    src="./docs/images/coreclaw-banner.png"
-    alt="CoreClaw - Turn Google Maps Data Into Real Business Leads"
-    width="100%"
-  />
-</a>
 
 <div align="center">
   <p>
