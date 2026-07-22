@@ -7,15 +7,6 @@
 Turn Google Maps Data Into Real Business Leads
 Find websites, emails, and business contacts from Google Maps in minutes.
     </p>
-</div>
-
-
----
-
-<div align="center">
-  <h1>Prospex</h1>
-  <p><strong>Open-source AI-powered GTM automation platform</strong></p>
-  <p>Find leads · Score them with AI · Generate personalized outreach · Close deals</p>
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue.svg)](https://www.typescriptlang.org/)
