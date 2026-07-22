@@ -216,6 +216,3 @@ MIT — see [LICENSE](LICENSE).
 
 ---
 
-<div align="center">
-  <sub>Built with ❤️ by <a href="https://github.com/asiifdev">asiifdev</a></sub>
-</div>
