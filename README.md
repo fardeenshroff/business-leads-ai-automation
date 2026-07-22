@@ -9,10 +9,6 @@ Find websites, emails, and business contacts from Google Maps in minutes.
     </p>
 </div>
 
-<p align="center">
-    <img src="https://img.shields.io/badge/Get_1,000_Free_Leads-22C55E?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Get 1,000 Free Leads">
-  </a>
-</p>
 
 ---
 
